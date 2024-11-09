@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://localh0ste:5000
+#koi fyeda nahi ha :) lol
